@@ -1,1 +1,1 @@
-This C++ examples program
+Berbagai contoh pemrograman dengan bahasa C++
